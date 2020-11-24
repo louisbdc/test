@@ -6,6 +6,7 @@
 */
 
 int my_putchar(char c);
+int my_put_nbr(int nb);
 
 int my_put_long(long int nb)
 {

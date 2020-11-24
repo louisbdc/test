@@ -61,5 +61,4 @@ void my_printf(char *src, ...)
             }
         }
     }
-    my_putchar('\n');
 }
